@@ -1,0 +1,15 @@
+npm create vite@latest
+
+.............
+
+project name:
+
+select React
+
+select TypeScript + swc
+
+..........
+navigate to project folder
+
+npm i
+
